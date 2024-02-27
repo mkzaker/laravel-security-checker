@@ -1,5 +1,5 @@
 {
-    "name": "enlightn/laravel-security-checker",
+    "name": "mkzaker/laravel-security-checker",
     "description": "Forked from enlightn/laravel-security-checker for supportting laravel 10",
     "type": "library",
     "keywords": [
